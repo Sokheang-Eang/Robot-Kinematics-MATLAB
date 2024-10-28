@@ -1,4 +1,4 @@
-close all, clear all, clc;
+close all, clear all  clc;
 %% Robot Parameter
 wheel_redius = 0.05;
 Lx = 0.5;
